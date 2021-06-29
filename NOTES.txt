@@ -1,0 +1,5 @@
+-> The CPP folder consists the python code that is used to calculate the waypoints for the path.
+-> Python3 is required to run the python code.
+-> To run - python3 longest_side_sweep.py
+-> The Drone_Energy_model folder consists the MATLAB code used to calculate energy, time and path length. Transfer the csv file made in the CPP folder to this folder to get the params.
+-> run1.m file calculates data for iris drone model while the run2.m file does it for the second model.
